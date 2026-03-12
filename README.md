@@ -23,11 +23,18 @@ The following features were tested:
 ## 📊 Test Execution Summary
 - Total test cases: 24
 - Bugs found: 9
-- Evidence: screenshots and videos included
+- Evidence: screenshots and screencasts included
 
 ## 📁 Project Files
 - Test cases documentation
-- Bug evidence (screenshots and videos)
+- Bug evidence (screenshots and screencasts)
+- Jira bug screenshots
+
+## 🔗 Traceability
+Each failed test case includes a direct link to its corresponding Jira ticket to ensure traceability between test execution and defect reporting.
+
+## 🎥 Video Evidence
+Screen recordings demonstrating failed scenarios are included in the SCREENCAST folder.
 
 ## 👤 Author
 Héctor Calvillo
